@@ -1,0 +1,5 @@
+git config --global user.name Saidarshini
+git config --global user.email saidarshinisaidarshini2@gmail.com
+git init
+git status
+git add .
